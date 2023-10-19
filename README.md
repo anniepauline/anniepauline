@@ -7,10 +7,9 @@
 
  - My place on the web [https://anniepauline.github.io/Personalized-CV/](https://anniepauline.github.io/Personalized-CV/)
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anniepauline&show_icons=true&count_private=true&hide_border=true&title_color=0A69DC&icon_color=0A69DC&text_color=3C897D&bg_color=0d1117" alt="Annie Pauline stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anniepauline&theme=dark&hide&show_icons=true&count_private=true&hide_border=false&title_color=0A69DC&icon_color=0A69DC&text_color=3C897D&bg_color=0d1117" alt="Annie Pauline stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniepauline&layout=compact&hide_border=true&title_color=0A69DC&text_color=3C897D&bg_color=0d1117" />
 </div>
-
 
 
 
