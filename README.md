@@ -33,12 +33,13 @@
 </div>
 
  <hr/>
-### HACKTOBER-FEST'23 Badges
+<h2 align="center">HACKTOBER-FEST'23 Badges</h2>
 
 [![An image of @anniepauline's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anniepauline)](https://holopin.io/@anniepauline)
 
 <hr/>
-### GSSOC'24 Badges
+
+<h2 align="center">GSSOC'24 Badges</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
